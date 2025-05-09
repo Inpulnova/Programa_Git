@@ -1,0 +1,11 @@
+Inicio_Sesion.jsp
+http://localhost:8080/JFZambranoCallCenterWeb/inicio_sesion.jsp
+
+Inicio_sesion.jsp contraseña errada
+http://localhost:8080/JFZambranoCallCenterWeb/procesarFormulario
+
+inicio contraseña ok formulario
+http://localhost:8080/JFZambranoCallCenterWeb/procesarFormulario
+
+Servicios que ofrece jf zambrano
+http://localhost:8080/JFZambranoCallCenterWeb/servicios.jsp
